@@ -8,7 +8,7 @@ import ReactDOM from "react-dom/client";
 const UserContext = createContext()
 
 function Home() {
-    const [user, setUser] = useState("Jesse Hall");
+    const [user, setUser] = useState("");
 
     const [fname, setFname] = React.useState('Temp');
 

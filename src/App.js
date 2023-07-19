@@ -6,6 +6,7 @@ import Contact from './contact/Contact';
 import Layout from './layout/layout';
 
 function App() {
+
   return (
     <div className="App">
       <BrowserRouter>
